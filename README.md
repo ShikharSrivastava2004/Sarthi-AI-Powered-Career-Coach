@@ -39,7 +39,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/tanishdwiv/Saarthi.git
+git clone https://github.com/ShikharSrivastava2004/Saarthi.git
 cd Saarthi
 ```
 
